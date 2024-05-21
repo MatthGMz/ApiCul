@@ -1,6 +1,3 @@
-<h1>Demostracion de instalacion de laragon<h1>
-<img src= "![Uploading laragon.PNG…]()">
-
 
 
 
